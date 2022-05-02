@@ -1,11 +1,11 @@
 import pandas as pd
-#read csv file
+#Leer el archivo csv.
 df = pd.read_csv("final.csv")
-#check number of rows and columns
+#Verificar el número de filas y columnas.
 print(df.shape)
 
-# Delete columns
+#Borrar columnas.
 
-#Rename column headers
+#Renombrar encabezados de las columnas.
 
-#Save the data into main.csv
+#Guardar los datos en main.csv.
